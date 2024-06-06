@@ -3,6 +3,6 @@ plugins:
   - jekyll-remote-theme
 
 # Site settings
-title: Your Site Title
-description: A short description of your site
-logo: /assets/images/logo.png
+title: Youtube-Portfolio
+description: APS take on Youtube
+logo: /logo.png
